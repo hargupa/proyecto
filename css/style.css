@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+
+.tit_centrado{
+	position:sticky;
+	text-align: center;
+}
+.img_tit{
+
+		width: 250px;
+        height: 250px;
+        border-radius: 200px;
+}
+
+p,li{
+	font-family: 'Bad Script', cursive;
+	font-size: 20px;
+}
+h2{
+	font-family: 'Bad Script', cursive;
+	font-size: 30px;	
+}
+
+h1{
+	font-family: 'Bad Script', cursive;
+
+}
+.tbl_contenedor{
+	position: absolute;
+	top:150px;
+	margin: 270px;
+}
+
